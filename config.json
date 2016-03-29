@@ -16,12 +16,6 @@
     
 
     "twilio":{
-        "TWILIO": 1,
-        "ACCOUNT_SID":"AC3f7d522652db7d8dbbb19ffaa4dba931",
-        "AUTH_TOKEN":"a727889d2a79e88ea978e9adfc1c54da", 
-        "TO":"9786607877",
-        "FROM":"+19786140547",
-        "CALL_URL":"http://keithemiller.github.io/shell-scribe/mp3/2sad4u.mp3",
-        "ALERT_TYPE":"CALL"
+        "TWILIO": 0,
     }
 }
